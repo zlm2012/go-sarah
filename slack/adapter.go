@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"github.com/oklahomer/go-sarah/v3"
 	"github.com/oklahomer/go-sarah/v3/log"
-	"github.com/oklahomer/golack/v2"
 	"github.com/oklahomer/golack/v2/event"
 	"github.com/oklahomer/golack/v2/eventsapi"
 	"github.com/oklahomer/golack/v2/rtmapi"
 	"github.com/oklahomer/golack/v2/webapi"
+	"github.com/zlm2012/golack/v2"
 	"golang.org/x/xerrors"
 	"time"
 )
